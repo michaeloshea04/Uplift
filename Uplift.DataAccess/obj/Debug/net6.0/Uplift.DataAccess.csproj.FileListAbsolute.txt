@@ -1,0 +1,17 @@
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.DataAccess.deps.json
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.DataAccess.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.DataAccess.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.Models.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.Utility.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.Models.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\bin\Debug\net6.0\Uplift.Utility.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.AssemblyInfo.cs
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.csproj.CopyComplete
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\refint\Uplift.DataAccess.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\Uplift.DataAccess.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.DataAccess\obj\Debug\net6.0\ref\Uplift.DataAccess.dll

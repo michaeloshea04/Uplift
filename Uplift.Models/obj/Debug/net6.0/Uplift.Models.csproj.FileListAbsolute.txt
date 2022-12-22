@@ -1,0 +1,12 @@
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\bin\Debug\net6.0\Uplift.Models.deps.json
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\bin\Debug\net6.0\Uplift.Models.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\bin\Debug\net6.0\Uplift.Models.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.csproj.AssemblyReference.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.AssemblyInfo.cs
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\refint\Uplift.Models.dll
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\Uplift.Models.pdb
+C:\Users\jc239855\source\repos\UpliftApp\Uplift.Models\obj\Debug\net6.0\ref\Uplift.Models.dll
